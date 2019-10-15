@@ -10,6 +10,8 @@
     <modules>
         <module>common</module>
         <module>provider8001</module>
+        <module>provider8002</module>
+        <module>provider8003</module>
         <module>consumer80</module>
         <module>eureka7001</module>
         <module>eureka7002</module>
